@@ -38,6 +38,10 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 ➒ To use app on your mobile, It's a offline app you don't need data for it.
 
 # For Dataset we used
+⦿ Currency Notes Dataset 
+
+
+⦿ Medicine Dataset
 
 
 
