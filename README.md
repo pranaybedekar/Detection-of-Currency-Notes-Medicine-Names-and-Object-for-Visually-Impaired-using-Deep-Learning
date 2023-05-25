@@ -19,5 +19,6 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 ◙ For Window, it is installed in command line during installation using requirements.txt
 
 # Steps
+➊ Visit Git repository from 
 
 
