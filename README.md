@@ -14,7 +14,7 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 
 ◙ Linux/Windows 
 
-◙ For Windows users install torch from [here]([url](https://pytorch.org/)) and configure it using this [link]([url](https://www.geeksforgeeks.org/install-pytorch-on-windows/)).
+◙ For Windows users install torch from [here]((https://pytorch.org/))] and configure it using this [link]([url](https://www.geeksforgeeks.org/install-pytorch-on-windows/)).
 
 ◙ For Window, it is installed in command line during installation using requirements.txt
 
