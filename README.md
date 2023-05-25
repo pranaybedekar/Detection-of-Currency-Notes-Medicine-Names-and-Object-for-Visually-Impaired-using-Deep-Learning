@@ -7,8 +7,13 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 
 # Requirements
 ◙ Text-Editor: Pycharm(recomend)/VScode/Spyder (any modern editor) Or Google Colab/Juypter Notebook
-◙ Python >= 3.9 
+
+◙ Python >= 3.9
+
 ◙ Git >= 2.39.0.2 (Not mandatory)
+
 ◙ Linux/Windows 
+
 ◙ For Windows users install torch from [here]([url](https://pytorch.org/)) and configure it using this [link]([url](https://www.geeksforgeeks.org/install-pytorch-on-windows/)).
+
 ◙ For Window, it is installed in command line during installation using requirements.txt
