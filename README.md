@@ -19,6 +19,18 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 ◙ For Window, it is installed in command line during installation using requirements.txt
 
 # Steps
-➊ Visit Git repository from 
+➊ Visit Git repository from here https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning.git
+
+➋ You can download code in zip format from above link or Run git clone (https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning.git) within terminal/CMD
+
+➌ Create a virtual env for this project using this link https://docs.python.org/3/tutorial/venv.html and activate virtual environment for this project using this link https://docs.python.org/3/library/venv.html
+
+➍ Open terminal/CMD in current working directory
+
+➎ Now, Install dependencies using pip install -r requirements.txt . Ensure successfull installation of all dependencies
+
+➏ Run detect.py in terminal/cmd for model ouput. 
+
+➐ if you want android application of it then run ObjectDetectorHelper.kt you will get this (App\object_detection\android\app\src\main\java\org\tensorflow\lite\examples\objectdetection\ObjectDetectorHelper.kt)
 
 
