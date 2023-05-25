@@ -67,6 +67,8 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 
 # Sample Model Results
 ![download (13)](https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning/assets/81001795/bc256395-36dc-4887-8cd7-170da3dcd5ce)
+
+
 ![download (21)](https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning/assets/81001795/29acd22c-be72-4eea-8751-8728bf94771c)
 ![download (22)](https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning/assets/81001795/64c0d320-7585-4dda-8dfb-7233d739f4d9)
 ![download (26)](https://github.com/pranaybedekar/Detection-of-Currency-Notes-Medicine-Names-and-Object-for-Visually-Impaired-using-Deep-Learning/assets/81001795/1c455960-6b03-4325-8108-3ee6eecc1a44)
