@@ -21,7 +21,7 @@ e tflite --int8 --img 416 --data dataset.yaml
 !python3 /content/yolov5train/yolov5/train.py --img 416 --batch 32 --epochs 30 --data /content/yolov5train/yolov5/dataset.yaml --weights yolov5s.pt
 
 2 test
-
+!python3 /content/yolov5train/yolov5/detect.py --weights runs/train/exp/weights/best.pt -img 416 --conf 0.25 --source runs/train/exp/test_images/
 
 3 export
 !python export.py --weights runs/train/exp2/weights/best.pt --include tflite --int8 --img 416 --data dataset.yaml
