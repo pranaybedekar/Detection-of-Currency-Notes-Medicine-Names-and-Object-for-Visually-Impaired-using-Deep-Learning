@@ -42,7 +42,7 @@ Artificial Intelligence is outgrowing in demand in every sector in recent years.
 
 
 ⦿ Medicine Dataset
-
+https://drive.google.com/drive/folders/1ZO6vC6CirRTFJ55cMfe0acfV_cU2MfU_?usp=share_link
 
 
 # Sample App Results
